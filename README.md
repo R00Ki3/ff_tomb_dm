@@ -6,3 +6,5 @@ This is a port from a Half-life map I made 10+ years ago. It offers arena style 
 Make sure your server config "mp_friendlyfire" is defaulted to "0", otherwise it will turn friendly on after the map is played. If you like friendly fire on, then do nothing. 
 
 ## Screenshots
+![Loading](https://github.com/R00Ki3/ff_tomb_dm/blob/master/screenshots/19ttm8.jpg)
+![Loading](https://github.com/R00Ki3/ff_tomb_dm/blob/master/screenshots/2m6pnd2.jpg)
